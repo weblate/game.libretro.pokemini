@@ -5,7 +5,6 @@
 		provider-name="Libretro">
 	<requires>
 		<import addon="game.libretro" version="1.0.0"/>
-		<!-- TODO: Add game.controller.pokemon.mini -->
 		<import addon="game.controller.default" version="1.0.0"/>
 	</requires>
 	<extension point="kodi.gameclient"
