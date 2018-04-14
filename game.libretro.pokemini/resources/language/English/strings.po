@@ -52,3 +52,11 @@ msgctxt "#30008"
 msgid "Rumble Level (Screen + Controller)"
 msgstr ""
 
+msgctxt "#30009"
+msgid "Screen Shake"
+msgstr ""
+
+msgctxt "#30010"
+msgid "Video Scale (Restart)"
+msgstr ""
+

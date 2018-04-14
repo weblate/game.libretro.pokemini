@@ -9,5 +9,7 @@
 		<setting label="30006" type="select" id="pokemini_palette" values="Default|Old|Monochrome|Green|Green Vector|Red|Red Vector|Blue LCD|LEDBacklight|Girl Power|Blue|Blue Vector|Sepia|Monochrome Vector" default="Default"/>
 		<setting label="30007" type="select" id="pokemini_piezofilter" values="enabled|disabled" default="enabled"/>
 		<setting label="30008" type="select" id="pokemini_rumblelvl" values="3|2|1|0" default="3"/>
+		<setting label="30009" type="select" id="pokemini_screen_shake" values="enabled|disabled" default="enabled"/>
+		<setting label="30010" type="select" id="pokemini_video_scale" values="4x|5x|6x|1x|2x|3x" default="4x"/>
 	</category>
 </settings>
