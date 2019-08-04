@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <addon id="game.libretro.pokemini"
-		name="Nintendo - Pokémon Mini (PokeMini)"
-		version="0.60.0.5"
+		name="Nintendo - Pokemon Mini (PokeMini)"
+		version="0.60.0.6"
 		provider-name="Libretro">
 	<requires>
 		<import addon="game.libretro" version="1.0.0"/>
@@ -15,7 +15,7 @@
 		<supports_standalone>false</supports_standalone>
 	</extension>
 	<extension point="xbmc.addon.metadata">
-		<summary lang="en_GB">Nintendo - Pokémon Mini (PokeMini) v0.60</summary>
+		<summary lang="en_GB">Nintendo - Pokemon Mini (PokeMini) v0.60</summary>
 		<description lang="en_GB">PokeMini emulates the obscure Pokémon Mini handheld. While functional, it does not support color files or savestates currently.
 
 To include real BIOS, place &#34;bios.min&#34; in the emulator&#39;s userdata folder.
