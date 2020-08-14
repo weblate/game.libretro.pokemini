@@ -2,7 +2,7 @@
 <addon id="game.libretro.pokemini"
 		name="Nintendo - Pokemon Mini (PokeMini)"
 		version="0.60.0.10"
-		provider-name="Libretro">
+		provider-name="JustBurn">
 	<requires>
 		<import addon="game.libretro" version="1.0.0"/>
 		<import addon="game.controller.default" version="1.0.0"/>
